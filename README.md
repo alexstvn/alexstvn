@@ -11,5 +11,4 @@ I enjoy working with data, learning new tools, and building things that are usef
 ## 📫 Let's Connect!
 - 📍 Based in Boonton, NJ
 - 🔗 [LinkedIn](https://linkedin.com/in/alexandriapstevenson)
-- 💻 [GitHub](https://github.com/alexstvn)
 - 📬 stevenson.alex.p@gmail.com
