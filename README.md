@@ -1,6 +1,7 @@
 # Hi, I'm Alex 👋
 
 I'm a Master's student in Computer Science at Northeastern University. 🐺
+
 I enjoy working with data, learning new tools, and building things that are useful or creative.
 
 ### 🌱 Interests
