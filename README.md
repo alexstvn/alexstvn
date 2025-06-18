@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**alexstvn/alexstvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Computer Science at Northeastern University. 🐺
+I enjoy working with data, learning new tools, and building things that are useful or creative.
 
-Here are some ideas to get you started:
+### 🌱 Interests
+- Data visualization and processing  
+- AI and music  
+- Learning new programming languages  *(I'm currently learning C++!)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- 📍 Based in Boonton, NJ
+- 🔗 [LinkedIn](https://linkedin.com/in/alexandriapstevenson)
+- 💻 [GitHub](https://github.com/alexstvn)
+- 📬 stevenson.alex.p@gmail.com
