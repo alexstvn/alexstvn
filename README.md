@@ -10,7 +10,7 @@ I enjoy working with data, learning new tools, and building things that are usef
 - Learning new programming languages  *(I'm currently learning C++!)*
 
 ## 📫 Let's Connect!
-- 📍 Based in Boonton, NJ for the summer
+- 📍 Based in Boston, MA
 - 📬 stevenson.alex.p@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/alexandriapstevenson)
 - 💻 [Website](https://alexstvn.github.io/alexandriastevenson/)
