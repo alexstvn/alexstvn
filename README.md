@@ -10,6 +10,10 @@ I enjoy working with data, learning new tools, and building things that are usef
 - AI and music  
 - Learning new programming languages  *(I'm currently learning C++!)*
 
+### 🖼️ Hobbies
+- Piano (particularly classical) 🎹
+- Drawing, graphic design, and making comics 🎨
+
 ## 📫 Let's Connect!
 - 📍 Based in Boston, MA
 - 📬 stevenson.alex.p@gmail.com
