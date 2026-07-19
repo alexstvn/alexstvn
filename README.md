@@ -18,4 +18,4 @@ I enjoy working with data, learning new tools, and building things that are usef
 - 📍 Based in Boston, MA
 - 📬 stevenson.alex.p@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/alexandriapstevenson)
-- 💻 [Website](https://alexstvn.github.io/alexandriastevenson/)
+- 💻 [Website](alexstvn.github.io)
